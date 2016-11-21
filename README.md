@@ -2,8 +2,8 @@
 一句话实现一个带有文字闪动渐变的label
 #####1、效果:
 
-带有文字闪动渐变的label
-![image](https://github.com/WZBbiao/WZBGradualLabel/blob/master/WZBGradualLabels.gif?raw=true)
+
+![带有文字闪动渐变的label](https://github.com/WZBbiao/WZBGradualLabel/blob/master/WZBGradualLabels.gif?raw=true)
 
  #####2、使用方法：
  
